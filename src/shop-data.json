@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "vivo",
+    "imageUrl": "https://image.shutterstock.com/image-photo/jakarta-indonesia-october-17-2020-600w-1835188831.jpg",
+    "price": 250
+  },
+  {
+    "id": 2,
+    "name": "Realme",
+    "imageUrl": "https://image.shutterstock.com/image-photo/bangkok-thailand-realme-launch-new-600w-1682835898.jpg",
+    "price": 218
+  },
+  {
+    "id": 3,
+    "name": "Redmi",
+    "imageUrl": "https://image.shutterstock.com/image-photo/shenzhen-china-31-october-2021-600w-2066923151.jpg",
+    "price": 188
+  },
+  {
+    "id": 4,
+    "name": "Apple",
+    "imageUrl": "https://image.shutterstock.com/image-photo/ukraine17-september2018iphone-xs-smartphones-closeuplatest-600w-744925597.jpg",
+    "price": 1225
+  },
+  {
+    "id": 5,
+    "name": "Poco",
+    "imageUrl": "https://image.shutterstock.com/image-photo/bangkok-thailand-poco-launch-new-600w-1873319035.jpg",
+    "price": 192
+  },
+  {
+    "id": 6,
+    "name": "Moto G",
+    "imageUrl": "https://image.shutterstock.com/image-photo/motorola-xt1068-moto-g-2nd-600w-1360320569.jpg",
+    "price": 190
+  },
+  {
+    "id": 7,
+    "name": "Oppo",
+    "imageUrl": "https://image.shutterstock.com/image-photo/bangkok-thailand-oppo-launch-new-600w-2044330967.jpg",
+    "price": 200
+  },
+  {
+    "id": 8,
+    "name": "Samsung",
+    "imageUrl": "https://image.shutterstock.com/image-photo/krakow-poland-november-2021-samsung-600w-2076252583.jpg",
+    "price": 350
+  }
+]
